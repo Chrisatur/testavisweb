@@ -30,19 +30,19 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '1f67094fdf052a6413a7990309767b9c116cfe97',
+    'reference' => '4446e5a5fffcf661c416519701d0484399d5f23b',
     'name' => 'patrickposner/simply-static',
   ),
   'versions' => 
   array (
     'a5hleyrich/wp-background-processing' => 
     array (
-      'pretty_version' => '1.1.1',
-      'version' => '1.1.1.0',
+      'pretty_version' => '1.1.0',
+      'version' => '1.1.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'ebbed762c42e70e76573ffbd36e591378ba5f2ee',
+      'reference' => 'd5ef95cecba7f792ddca3e3bd70ebfb90dc4996d',
     ),
     'patrickposner/simply-static' => 
     array (
@@ -51,16 +51,16 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '1f67094fdf052a6413a7990309767b9c116cfe97',
+      'reference' => '4446e5a5fffcf661c416519701d0484399d5f23b',
     ),
     'symfony/css-selector' => 
     array (
-      'pretty_version' => 'v5.4.26',
-      'version' => '5.4.26.0',
+      'pretty_version' => 'v5.4.21',
+      'version' => '5.4.21.0',
       'aliases' => 
       array (
       ),
-      'reference' => '0ad3f7e9a1ab492c5b4214cf22a9dc55dcf8600a',
+      'reference' => '95f3c7468db1da8cc360b24fa2a26e7cefcb355d',
     ),
     'symfony/polyfill-iconv' => 
     array (
